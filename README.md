@@ -58,7 +58,7 @@ ya que de lo contrario se imprimira un mensaje de "Error", aquí las opciones qu
    ************************************************
 
 4. Seleccionar la opción deseada y seguir las instrucciones en pantalla para ingresar las cantidades y realizar la conversión.
-5. En dado caso de querer la Opción numero 11, se debera de usar el código correspondiente de las monedas que se desean convertir, en la consola se mostrara el siguiente ejemplo de codigo
+5. En dado caso de querer la Opción numero 11, se debera de usar el código correspondiente de las monedas que se desean convertir, en la consola se mostrara el siguiente ejemplo de codigo: 
 EUR para Euro 
 
 ## API
