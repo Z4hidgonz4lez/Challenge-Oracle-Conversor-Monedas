@@ -38,7 +38,7 @@ Estos son algunos de los requisitos necesarios para la ejecución del código
 1. Ejecutar la clase principal `Principal`.
 
 2. En la consola, se mostrará un menú con las opciones disponibles y deberas elegir entre una de esas opciones
-ya que de lo contrio se imprimira un mensaje de "Error", aquí muestro las opciones que mostrara la consola:
+ya que de lo contrario se imprimira un mensaje de "Error", aquí las opciones que mostrara la consola:
 
    ************************************************
    Bienvenido al conversor de monedas =]
